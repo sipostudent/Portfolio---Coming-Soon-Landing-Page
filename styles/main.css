@@ -115,7 +115,10 @@ body {
   margin-bottom: 5rem;
   text-transform: uppercase;
   color: #222222;
-  /* filter: blur(0.6px); */
+}
+
+.cover-heading span {
+  color: #ffffff;
 }
 
 @media (min-width: 768px) {
