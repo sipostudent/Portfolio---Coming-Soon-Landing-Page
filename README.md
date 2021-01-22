@@ -1,6 +1,6 @@
 <h1 align = "center">
 <br>
-  <img src = "image/portfolio-coming-soon.png" width = "600">
+  <img src = "image/snapshot.png" width = "600">
   <br>
     <br>
   Coming Soon Landing Page
